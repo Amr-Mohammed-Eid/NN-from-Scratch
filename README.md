@@ -105,7 +105,7 @@ After 1 000 iterations of gradient descent the network converges to:
 
 | Metric | Value |
 |---|---|
-| Final Validation Accuracy | **~85–90 %** |
+| Final Validation Accuracy | **~92 %** |
 | Loss Function | Cross-Entropy |
 | Training Samples | ~41 000 |
 | Validation Samples | 1 000 |
