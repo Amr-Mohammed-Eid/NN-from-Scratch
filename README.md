@@ -27,7 +27,7 @@ The model is trained on the classic **MNIST digit-recognition dataset** (Kaggle 
 | Feature | Details |
 |---|---|
 | **Architecture** | `784 → 10 (ReLU) → 10 (Softmax)` |
-| **Weight Init** | He initialization (`√2/n`) |
+| **Weight Init** |Initialization (`√2/n`) |
 | **Activations** | ReLU (hidden), Softmax (output) |
 | **Loss** | Cross-Entropy |
 | **Optimizer** | Vanilla Gradient Descent |
